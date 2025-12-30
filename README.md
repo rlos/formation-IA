@@ -1,2 +1,1 @@
-# formation-IA
-Formation E-learning IA
+# Formation-IA-Developpez-vos-connaissances-en-IA
